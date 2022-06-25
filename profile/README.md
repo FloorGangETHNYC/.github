@@ -19,6 +19,8 @@
 
 ![smart-contract-architecture.drawio.svg](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/smart-contract-architecture.drawio.svg)
 
+![smart-contract-interfaces.drawio.svg](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/smart-contract-interfaces.drawio.svg)
+
 Credits:
 kassandraotroy for ERC721Soulbound
 
