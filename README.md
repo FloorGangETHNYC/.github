@@ -1,4 +1,4 @@
-# Nifty Rewards
+# Floor Gang
 
 <p align="center">
 <a href="">
