@@ -52,3 +52,21 @@ Frontend
 ### WorldId
 
 Frontend and PewCore Smart Contract on Polygon Testnet
+
+### IPFS
+
+Storing Images of NFTs on IPFS
+
+### Storj
+
+Storing Images of the NFTs using Storj
+
+### Opensea / NFts in General
+
+NFTs are used as proof of membership of the DAO and governance score is associated to the NFTs.
+
+NFTs are on-chain and are upgradeable based on the governance score (GS).
+
+![ranks.png](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/ranks.png)
+
+Contributions statements by users are also tagged to the NFTs. The IPFS Hash of the contribution is stored on chain.
