@@ -67,6 +67,6 @@ NFTs are used as proof of membership of the DAO and governance score is associat
 
 NFTs are on-chain and are upgradeable based on the governance score (GS).
 
-![ranks.png](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/ranks.png)
+![ranks.png](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/Ranks.png)
 
 Contributions statements by users are also tagged to the NFTs. The IPFS Hash of the contribution is stored on chain.
