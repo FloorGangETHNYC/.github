@@ -1,51 +1,52 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="521px" height="291px" viewBox="-0.5 -0.5 521 291" content="&lt;mxfile&gt;&lt;diagram id=&quot;_5DWjx4b2lHWlA31uEc0&quot; name=&quot;Page-1&quot;&gt;7Zpdj9o4FIZ/DRJ70VU+gIHLATrTkabd0VK126uViQ2x6sRZxxmgv36PEzshGBimGdJeREIQnxw79vv4+MQJPX8Wbe8FSsKPHBPW8xy87fnznueNhy58K8OuMLgjxy8sa0GxtlWGBf1BtNHR1oxiktYcJedM0qRuDHgck0DWbEgIvqm7rTirXzVBa2IZFgFitvUrxTI043Iq+wdC16G5suvoMxEyztqQhgjzzZ7Jf9/zZ4JzWRxF2xlhSjyjS1Hv7sTZsmOCxPKSCje6G3JnxkYwDFUXYx7DzzSUEYOSC4cYpSHBumBfzMBAYk20SZNVze756N7cEx4RKXbgIAhDkj7XFUYa1Lr0K6s+cQpX9Rw9qVwjvp5T70Bzp95IyjMREF2v0gQO9jpSmXKljqs2vopqRf9aVW3gvKhawfItVBu9UjXQR+z+gYJjCt9U4c+hKc63+yfnO126SOBBOwKP2hTYLI8/oXAl6reapq9UeD/wJy0pPDpQeHJztbh3dVg+I5bp/va8EYMBT9MExTXpR/9lahGfrngs36V5CrsFB3eSbKuTcLTWv3krS2OYQS2BAjXOh1gSsUIBJDztBd1cHtYEW9EFYz6YCJJsZR1+KgX/TmaccVFNjhVl7MCEGF3HUAyI6ggYnomQFJLhrT4RUYzVZaabkEqySFAeYxtI/WATPItxvvadnTiqTbI9O0/0Wd8KKMN7U6Xi0ivcS8O+c3pu1SbFuRkwsGbAE9nMuCCW4umGRgwVqgJNE4VKhiCkDD+iHc9U11KJgu+mNA25oD/AH1WckJD6Hsh3ah4LVVO3KYiaZE9GWvfA9BFta46PKJWmN5wxlKR0mfdPVYwgjGk85VLyqEbOwnQE5klyA4ucZ5NzB0fIlVUboRta6AJBkCTz27/6f5wKmNdGCSMreS5GIEgDGq8fc7f5oLL8rYerTByqr1h+XxhCRQItTBO1fuXDH07hA4LM1Ko9hL7OoOxWZfgodyFhEYHuI5rjIQB8QxR0iEmJJFqW0/EytoPjcHf14HoJ5ZsE4cgiiTDOl0y6zCTlcV/R65g2ZDpqk+mNxTRLnrkkfYz4A1aC5Pu5EvED7vg25Dtpka9nxyxsfOOO8FUJu5dm2DdBbIcwbAa+dISvSnjYJuHxMcL3SrYYxQFZBHAj3M9SIm4xhvvMtMPbFO+4TbwT+w4ZsSCD/Tk5BrkL38Z8y2c2rdxj2eELm9dPd5/vUCC5bqvbwp7Zwh55+nBphi1TcSOCdoTCAmweFn1CEen/S7uofJny+GxUtrmZNdPiONLFLlpy1kF9A6ht7mbLx5o1qJ9hVKx71NQUZKvbVu9Eyuxy5YuPe91fmys9+2XNgyQRWFwLXheBdbLFtP898qP9xkVj9DqMzTC2mhHtty8ao99hbIbxivkQitV/kYoX5tU/uvz3/wM=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="611px" height="311px" viewBox="-0.5 -0.5 611 311" content="&lt;mxfile&gt;&lt;diagram id=&quot;_5DWjx4b2lHWlA31uEc0&quot; name=&quot;Page-1&quot;&gt;7Zpdk6I4FIZ/jVXuxWyBKOqlH9OzXdUz27VOze5cbUUSJTWBuCG0Or9+TyABMdhtL0rtBV1Wt3lJIHmfHE4C3fMW0eGTQLvwM8eE9QYOPvS8ZW8wmIxc+K2EYy64vuPlylZQrLVSWNGfRIuOVlOKSVKpKDlnku6qYsDjmASyoiEh+L5abcNZ9ao7tCWWsAoQs9U/KZahGZdT6r8Rug3NlV1HH4mQqayFJESY708k72PPWwjOZf4tOiwIU+YZX/J2DxeOFh0TJJbXNPB0P14QS/XgdMfk0YxW8DTGRDVwet58H1JJVjsUqKN74AtaKCMGJRe+bihjC864yNp6eOI4Y0/pPJYn+ib7AT2Rgv8gJ0dmI8cZqgvpjhEhyeHi6NzCM5hshEdEiiNU0Q2My3qefXCdiVb2JTbfzKrwBJlnRKSnyrY4eekmfNGG1ps7tqwkGOaRLsY8JlXvMErCzGe3GL41VpjpSGyJ6WYuqdO+6ocgDEn6Up2+dUPTTZ85hasWProjy0jnzJ+EpyIgut2ZRUVHrnJtchfX8v616trQedO1nOUtXPPf6Rr4I45/6ZjOCt9V4deRKS4PpweXR126yuBhOwb7bRpsbgj/weHS1O8VT9/p8GngT1ty2D9zeDq+W9y7Xk0q8plUSWKH4or1/j+pypBZVvmQZOuDGVRwp7tDeRC+bfXf7CxrIyyglUCBGudjLInYQDJLTC3o5vq8JWh5F4x8NhEgQ8kq/Gpa05PjNDdqCTG6jaEYENUREFS+o7DSmOkDEcVYXaY271Yz88WJY+XQiwnTswJqbCfMolYlYd4gX7pDawY8k/2CC2I5nuxpxFDuKtA0UahsCELK8BM68lR1LZEo+GFK85AL+hPqo5ITElIvMD2nUmOlWupzCqIm2bOx1j2TPqNDpeITSqTpDWcM7RK6zvqnGkYQxjSecyl5VCHXaKkztMgNasg5NeSKpo3QjSx0gSBIkuXs9/4vlwLmvVHCyEa+FiMQpAGNt09ZteWwVP7Qw1USh+Ybli26Q2hI4Azznbp/ZcMfzeEDhizUXXsEfV1A2S3L8FHVBSxmY+g+ohkeAsD3REGHmJRIonUxHa9jO6yHe6wG11sobxKEvkUSYZzdMuk6lZTHfUWvY9qQqd8m07HFNN29cEn6GPFHrAzJNssF4kfc8W3Id9oi34Eds5jv447wXQm712bYmyC2Qxg2A986wnclPGqT8KSO8CdlW4zigKwCWAj304SIGcawzkw6vE3x1jwNvB/eqb1CRixIYX9O6iB34duYb/HMppU1lh2+sHn98vD1AQWS63N1W9jXntZPrtnDusMagEUqbkTQjlC4AZuHRV9QRPp/0y4q36Y8eTUqazaztUxvctO1X2+dIF0dozVnHdQbQK3Zzd4PqlsH9SuMinWPmpqCrNm23g/k4ELK7HLlm497z1/MtJwrB/bLmkdJIlBcC14XgVWy+bT/f+RH+42LxjjoMDbD2GpGtN++aIxeh7EZxjvmQyiW/+iVvzAv/13O+/gv&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs>
-        <clipPath id="mx-clip-14-80-132-30-0">
-            <rect x="14" y="80" width="132" height="30"/>
+        <clipPath id="mx-clip-24-90-192-30-0">
+            <rect x="24" y="90" width="192" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-14-110-132-30-0">
-            <rect x="14" y="110" width="132" height="30"/>
+        <clipPath id="mx-clip-24-120-192-30-0">
+            <rect x="24" y="120" width="192" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-14-140-132-30-0">
-            <rect x="14" y="140" width="132" height="30"/>
+        <clipPath id="mx-clip-24-150-192-30-0">
+            <rect x="24" y="150" width="192" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-14-170-132-30-0">
-            <rect x="14" y="170" width="132" height="30"/>
+        <clipPath id="mx-clip-24-180-192-30-0">
+            <rect x="24" y="180" width="192" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-14-200-132-30-0">
-            <rect x="14" y="200" width="132" height="30"/>
+        <clipPath id="mx-clip-24-210-192-30-0">
+            <rect x="24" y="210" width="192" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-14-230-132-30-0">
-            <rect x="14" y="230" width="132" height="30"/>
+        <clipPath id="mx-clip-24-240-192-30-0">
+            <rect x="24" y="240" width="192" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-14-260-132-30-0">
-            <rect x="14" y="260" width="132" height="30"/>
+        <clipPath id="mx-clip-24-270-192-30-0">
+            <rect x="24" y="270" width="192" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-204-80-132-30-0">
-            <rect x="204" y="80" width="132" height="30"/>
+        <clipPath id="mx-clip-264-90-132-30-0">
+            <rect x="264" y="90" width="132" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-204-110-132-30-0">
-            <rect x="204" y="110" width="132" height="30"/>
+        <clipPath id="mx-clip-264-120-132-30-0">
+            <rect x="264" y="120" width="132" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-204-140-132-30-0">
-            <rect x="204" y="140" width="132" height="30"/>
+        <clipPath id="mx-clip-264-150-132-30-0">
+            <rect x="264" y="150" width="132" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-384-80-132-30-0">
-            <rect x="384" y="80" width="132" height="30"/>
+        <clipPath id="mx-clip-444-90-132-30-0">
+            <rect x="444" y="90" width="132" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-384-110-132-30-0">
-            <rect x="384" y="110" width="132" height="30"/>
+        <clipPath id="mx-clip-444-120-132-30-0">
+            <rect x="444" y="120" width="132" height="30"/>
         </clipPath>
-        <clipPath id="mx-clip-384-140-132-30-0">
-            <rect x="384" y="140" width="132" height="30"/>
+        <clipPath id="mx-clip-444-150-132-30-0">
+            <rect x="444" y="150" width="132" height="30"/>
         </clipPath>
     </defs>
     <g>
-        <rect x="0" y="0" width="230" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <rect x="0" y="0" width="610" height="310" fill="#d80073" stroke="#a50040" pointer-events="all"/>
+        <rect x="10" y="10" width="230" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 228px; height: 1px; padding-top: 15px; margin-left: 1px;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 228px; height: 1px; padding-top: 25px; margin-left: 11px;">
                         <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
                                 <span style="font-size: 19px">
@@ -57,97 +58,97 @@
                         </div>
                     </div>
                 </foreignObject>
-                <text x="115" y="19" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                <text x="125" y="29" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     Contract Interfaces
                 </text>
             </switch>
         </g>
-        <path d="M 10 80 L 10 50 L 150 50 L 150 80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 10 80 L 10 290 L 150 290 L 150 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 10 80 L 150 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 20 90 L 20 60 L 220 60 L 220 90" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 20 90 L 20 300 L 220 300 L 220 90" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 20 90 L 220 90" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
-            <text x="79.5" y="69.5">
+            <text x="119.5" y="79.5">
                 PewCore
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-80-132-30-0)" font-size="12px">
-            <text x="15.5" y="99.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-90-192-30-0)" font-size="12px">
+            <text x="25.5" y="109.5">
                 createDAO()
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-110-132-30-0)" font-size="12px">
-            <text x="15.5" y="129.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-120-192-30-0)" font-size="12px">
+            <text x="25.5" y="139.5">
                 addContribution(text)
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-140-132-30-0)" font-size="12px">
-            <text x="15.5" y="159.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-150-192-30-0)" font-size="12px">
+            <text x="25.5" y="169.5">
                 upvote(daoId, contributionId)
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-170-132-30-0)" font-size="12px">
-            <text x="15.5" y="189.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-180-192-30-0)" font-size="12px">
+            <text x="25.5" y="199.5">
                 downvote(daoId, contributionId)
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-200-132-30-0)" font-size="12px">
-            <text x="15.5" y="219.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-210-192-30-0)" font-size="12px">
+            <text x="25.5" y="229.5">
                 getVote(daoId, contributionId)
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-230-132-30-0)" font-size="12px">
-            <text x="15.5" y="249.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-240-192-30-0)" font-size="12px">
+            <text x="25.5" y="259.5">
                 getGovernanceScore(userAddress)
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-260-132-30-0)" font-size="12px">
-            <text x="15.5" y="279.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-270-192-30-0)" font-size="12px">
+            <text x="25.5" y="289.5">
                 calculateGovernanceScore(userId)
             </text>
         </g>
-        <path d="M 200 80 L 200 50 L 340 50 L 340 80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 200 80 L 200 170 L 340 170 L 340 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 200 80 L 340 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 260 90 L 260 60 L 400 60 L 400 90" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 260 90 L 260 180 L 400 180 L 400 90" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 260 90 L 400 90" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
-            <text x="269.5" y="69.5">
+            <text x="329.5" y="79.5">
                 PewNFTFactory
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-204-80-132-30-0)" font-size="12px">
-            <text x="205.5" y="99.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-264-90-132-30-0)" font-size="12px">
+            <text x="265.5" y="109.5">
                 getContractName(_id)
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-204-110-132-30-0)" font-size="12px">
-            <text x="205.5" y="129.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-264-120-132-30-0)" font-size="12px">
+            <text x="265.5" y="139.5">
                 getContractSymbol(_id)
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-204-140-132-30-0)" font-size="12px">
-            <text x="205.5" y="159.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-264-150-132-30-0)" font-size="12px">
+            <text x="265.5" y="169.5">
                 getTotal()
             </text>
         </g>
-        <path d="M 380 80 L 380 50 L 520 50 L 520 80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 380 80 L 380 170 L 520 170 L 520 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 380 80 L 520 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 440 90 L 440 60 L 580 60 L 580 90" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 440 90 L 440 180 L 580 180 L 580 90" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 440 90 L 580 90" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" text-anchor="middle" font-size="12px">
-            <text x="449.5" y="69.5">
+            <text x="509.5" y="79.5">
                 PewNFT
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-384-80-132-30-0)" font-size="12px">
-            <text x="385.5" y="99.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-444-90-132-30-0)" font-size="12px">
+            <text x="445.5" y="109.5">
                 Item 1
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-384-110-132-30-0)" font-size="12px">
-            <text x="385.5" y="129.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-444-120-132-30-0)" font-size="12px">
+            <text x="445.5" y="139.5">
                 Item 2
             </text>
         </g>
-        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-384-140-132-30-0)" font-size="12px">
-            <text x="385.5" y="159.5">
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-444-150-132-30-0)" font-size="12px">
+            <text x="445.5" y="169.5">
                 Item 3
             </text>
         </g>
