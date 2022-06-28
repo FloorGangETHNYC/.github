@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="">
-<img src="" width=200/>
+<img src="./diagrams/PewLogo.png" width=200/>
 </a>
 
 🌐 Website: <https://pew-frontend.vercel.app/>
