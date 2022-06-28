@@ -5,21 +5,23 @@
 <img src="" width=200/>
 </a>
 
-🌐 Website:
+🌐 Website: <https://pew-frontend.vercel.app/>
 
-🖌️ UI/UX Design:
+🖥️ Frontend: <https://github.com/FloorGangETHNYC/Pew-Frontend>
 
-🖥️ Frontend:
+💡 Backend: <https://github.com/FloorGangETHNYC/Pew-Core>
 
-💡 Backend:
-
-📑 Deck:
+📑 Deck: [Deck](https://github.com/FloorGangETHNYC/.github/blob/main/profile/resources/Pew_DAO_Information_Deck.pdf)
 
 🧭 Architecture:
 
 ![smart-contract-architecture.drawio.svg](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/smart-contract-architecture.drawio.svg)
 
 ![smart-contract-interfaces.drawio.svg](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/smart-contract-interfaces.drawio.svg)
+
+User Flow:
+
+![user-flow](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/user-flow.drawio.svg)
 
 ## Integrations
 
