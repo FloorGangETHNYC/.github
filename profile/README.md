@@ -7,7 +7,7 @@
 
 ## Description
 
-PEW is an new and innovating DAO governance system that solves the voting power inequality from current token-based governance systems by introducing an on-chain, reputation based score for voting power.
+PEW is an new and innovating DAO governance system that solves the voting power inequality from current token-based governance systems by introducing an on-chain, reputation based score for voting power. The framework that has been deployed easily allows new DAOs to be formed with a click of a button using a factory contract that deploys soulbound NFT collections.
 
 🌐 Website: <https://pew-frontend.vercel.app/>
 
