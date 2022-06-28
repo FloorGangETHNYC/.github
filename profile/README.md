@@ -1,9 +1,13 @@
-# Floor Gang
+# PEW
 
 <p align="center">
-<a href="">
-<img src="./diagrams/PewLogo.png" width=200/>
+<a href="https://github.com/FloorGangETHNYC/Pew-Core">
+<img src="[./diagrams/PewLogo.png](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/PewLogo.png)" width=200/>
 </a>
+
+## Description
+
+PEW is an new and innovating DAO governance system that solves the voting power inequality from current token-based governance systems by introducing an on-chain, reputation based score for voting power.
 
 🌐 Website: <https://pew-frontend.vercel.app/>
 
