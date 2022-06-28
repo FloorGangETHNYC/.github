@@ -9,7 +9,7 @@
 
 PEW is an new and innovative DAO governance system that solves the voting power inequality from current token-based governance systems by introducing an on-chain, reputation based score for voting power. Individuals have to self-declare their contributions to the DAO which are either vouched or refuted via Upvoting or downvoting respectively. The overall voting power an individual would have will be:
 
-$A * Time\:Spent\:In\:DAO * B * Total\:Number\:Of\:Upvotes * C * Total\:Number\:Of\:Downvotes * D * Total\:Number\:Of\:Reviews\:Given$
+$A * Time\ Spent\ In\ DAO * B * Total\ Number\ Of\ Upvotes * C * Total\ Number\ Of\ Downvotes * D * Total\ Number\ Of\ Reviews\ Given$
 
 where A, B, C, and D are customizable weights.
 
