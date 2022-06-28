@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/FloorGangETHNYC/Pew-Core">
-<img src="[./diagrams/PewLogo.png](https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/PewLogo.png)" width=200/>
+<img src="https://github.com/FloorGangETHNYC/.github/blob/main/profile/diagrams/PewLogo.png" width=200/>
 </a>
 
 ## Description
